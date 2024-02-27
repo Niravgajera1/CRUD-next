@@ -1,0 +1,25 @@
+.input{
+    display: block;
+    margin: auto;
+    width: 300px;
+    height: 30px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
+.btn{
+    background-color: aquamarine;
+    color: black;
+    border: 0;
+    margin: auto;
+    width: 300px;
+    height: 35px;
+    display: block;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.add{
+    margin-top: 100px;
+    text-align: -webkit-center;
+}
